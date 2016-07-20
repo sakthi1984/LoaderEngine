@@ -1,0 +1,12 @@
+{
+  "protocol": "https",
+  "server": "127.0.0.1",
+  "events": [
+    "login",
+    "logout",
+    "Syncup",
+    "syncdown"
+  ],
+  "concurrentUsers": 5,
+  "maxRequestsPerUser": 10
+}
